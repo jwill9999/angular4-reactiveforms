@@ -1,11 +1,17 @@
-# Angular Reactive form example
+# Angular Reactive Form Example
 
 ```
-> git clone 
-> cd into file
+> git clone https://github.com/jwill9999/angular4-reactiveforms.git
+> cd into file  angular4-reactiveforms
 > npm install
 > ng serve
 ```
+
+## Project Preview 
+
+![](./public/images/reactiveforms.png)
+
+![](./public/images/reactive.png)
 
 ## Links
 
